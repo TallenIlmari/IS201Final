@@ -1,0 +1,30 @@
+.mainbody {
+width: 75%;
+}
+
+.left{
+width: 25%;
+}
+
+.column {
+float: left;
+}
+
+body{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    margin: 50px;
+    background-image: url(https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?size=626&ext=jpg);
+}
+
+a{
+    color: white;
+}
+
+.padding{
+    padding: 5px;
+}
+
+.bold{
+    font-weight: bold;
+}
